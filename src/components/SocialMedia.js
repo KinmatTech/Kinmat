@@ -11,9 +11,9 @@ function SocialMedia() {
     <ul className="home-about-social-links">
       <li className="social-icons">
         <a
-          href="https://github.com/ekeneakubue"
+          href="https://github.com/KinmatTech"
           target="_blank"
-          rel="ekeneakubue"
+          rel="KinmatTech"
           className="icon-colour  home-social-icons"
         >
           <AiFillGithub className="social-icon" />
@@ -21,9 +21,9 @@ function SocialMedia() {
       </li>
       <li className="social-icons">
         <a
-          href="https://www.linkedin.com/in/ekene-akubue-58046b77/"
+          href="https://www.linkedin.com/in/mathew-ani-52240a22a/53998345"
           target="_blank"
-          rel="ekeneakubue"
+          rel="Kinmat"
           className="icon-colour  home-social-icons"
         >
           <FaLinkedinIn className="social-icon" />
@@ -31,9 +31,9 @@ function SocialMedia() {
       </li>
       <li className="social-icons">
         <a
-          href="https://www.instagram.com/ekeneakubue/"
+          href="https://www.instagram.com/mathewok20/"
           target="_blank"
-          rel="ekeneakubue"
+          rel="Kinmat"
           className="icon-colour home-social-icons"
         >
           <AiFillInstagram className="social-icon" />
@@ -41,9 +41,9 @@ function SocialMedia() {
       </li>
       <li className="social-icons">
         <a
-          href="mailto:ekeneakubue@gmail.com"
+          href="mailto:mathewok20@gmail.com"
           target="_blank"
-          rel="ekeneakubue"
+          rel="Kinmat"
           className="icon-colour home-social-icons"
         >
           <MdEmail className="social-icon" />
