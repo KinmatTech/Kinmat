@@ -31,6 +31,29 @@ export const PROJECTS = [
     url: "https://kinmat-task-manager.vercel.app/",
   },
   
+  {
+    image: CLOCK,
+    name: "Kinmat Analog Clock App",
+    technologyUsed: "ReactJs, Javascript, CSS",
+    description: "This project displays current time in analog form using react javascrip library.",
+    url: "https://kinmat-react-analogue-clock.vercel.app/",
+  },
+ 
+  {
+    image: TREMINDER,
+    name: "Kinmat Task Remibder App",
+    technologyUsed: "ReactJs, Javascript, CSS",
+    description: "This project displays daily task reminder in digital form using react javascrip library.",
+    url: "https://kinmat-task-reminder-app.vercel.app/",
+  },
+
+  {
+    image: TINDER,
+    name: "Tinder Clone App",
+    technologyUsed: "ReactJs, Javascript, CSS, Firebase",
+    description: "This project displays Tinder Clone using react Material-UI.",
+    url: "https://kinmat-tinder-clone.vercel.app/",
+  }
   
   
 ];
