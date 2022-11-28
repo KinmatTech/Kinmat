@@ -36,6 +36,8 @@ function App() {
             <Route path="/project" component={Projects} />
             <Route path="/about" component={About} />            
           </Switch>
+          <About />
+          <Projects />
           <Footer />
         </div>
       )}
