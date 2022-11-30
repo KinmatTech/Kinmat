@@ -41,7 +41,7 @@ export const PROJECTS = [
  
   {
     image: TREMINDER,
-    name: "Kinmat Task Remibder App",
+    name: "Kinmat Task Remnbder App",
     technologyUsed: "ReactJs, Javascript, CSS",
     description: "This project displays daily task reminder in digital form using react javascrip library.",
     url: "https://kinmat-task-reminder-app.vercel.app/",
@@ -52,7 +52,7 @@ export const PROJECTS = [
     name: "Tinder Clone App",
     technologyUsed: "ReactJs, Javascript, CSS, Firebase",
     description: "This project displays Tinder Clone using react Material-UI.",
-    url: "https://kinmat-tinder-clone.vercel.app/",
+    url: "#",
   }
   
   
