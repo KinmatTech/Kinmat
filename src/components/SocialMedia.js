@@ -13,7 +13,7 @@ function SocialMedia() {
       
       <li className="social-icons">
        <a
-          href="https://whatsapp.com/kinmat"
+          href="https://whatsapp.com/dl/08060850958"
           target="_blank"
           rel="KinmatTech"
           className="icon-colour  home-social-icons"
