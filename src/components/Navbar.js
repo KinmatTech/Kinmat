@@ -8,6 +8,8 @@ import {
   AiOutlineHome,
   AiOutlineFundProjectionScreen,
   AiOutlineUser,
+  AiOutlineArrowDown,
+  AiOutlineMail,
 } from "react-icons/ai";
 
 import { FaCode } from "react-icons/fa";
@@ -83,14 +85,14 @@ function NavBar() {
                 to="/#contact"
                 onClick={() => updateExpanded(false)}
               >
-                Contact
+                 <AiOutlineMail style={{ marginBottom: "2px" }}/>{" "} Contact
               </Nav.Link>
             </Nav.Item> 
 
 
             <Nav.Item>
               <Nav.Link href="Mathew-CV.pdf" target="_blank">
-                Download CV 
+              <AiOutlineArrowDown style={{ marginBottom: "2px" }}/>{" "} Download CV 
               </Nav.Link>
             </Nav.Item>
 

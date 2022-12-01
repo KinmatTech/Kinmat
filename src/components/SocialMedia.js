@@ -1,7 +1,8 @@
 import React from "react";
 import {
   AiFillGithub,
-  AiFillInstagram,
+  // AiFillInstagram,
+  AiOutlineWhatsApp,
 } from "react-icons/ai";
 import { MdEmail } from "react-icons/md";
 import { FaLinkedinIn } from "react-icons/fa";
@@ -9,6 +10,18 @@ import { FaLinkedinIn } from "react-icons/fa";
 function SocialMedia() {
   return (
     <ul className="home-about-social-links">
+      
+      <li className="social-icons">
+       <a
+          href="https://whatsapp.com/kinmat"
+          target="_blank"
+          rel="KinmatTech"
+          className="icon-colour  home-social-icons"
+        >
+          <AiOutlineWhatsApp className="social-icon" />
+        </a>
+      </li>
+      
       <li className="social-icons">
         <a
           href="https://github.com/KinmatTech"
@@ -29,16 +42,16 @@ function SocialMedia() {
           <FaLinkedinIn className="social-icon" />
         </a>
       </li>
-      <li className="social-icons">
+      {/* <li className="social-icons">
         <a
-          href="https://www.instagram.com/mathewok20/"
+          href="https://www.instagram.com/mathewok20/541540 "
           target="_blank"
           rel="Kinmat"
           className="icon-colour home-social-icons"
         >
           <AiFillInstagram className="social-icon" />
         </a>
-      </li>
+      </li> */}
       <li className="social-icons">
         <a
           href="mailto:mathewok20@gmail.com"

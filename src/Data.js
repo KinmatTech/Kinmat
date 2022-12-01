@@ -52,7 +52,7 @@ export const PROJECTS = [
     name: "Tinder Clone App",
     technologyUsed: "ReactJs, Javascript, CSS, Firebase",
     description: "This project displays Tinder Clone using react Material-UI.",
-    url: "#",
+    url: "#https://tinder-clone.vercel.app",
   }
   
   
@@ -63,6 +63,10 @@ export const SKILLS = [
   { name: "JavaScript", initialRating: 4 },  
   { name: "Html", initialRating: 4 },
   { name: "CSS", initialRating: 4 },
+  { name: "PHP", initialRating: 4 },
+  { name: "MySql", initialRating: 4 },
+  { name: "SQL Server", initialRating: 4 },
+  { name: "ASP", initialRating: 4 },
   { name: "Unit-Testing(Jest)", initialRating: 3 },  
   { name: "GitHub", initialRating: 4 },
 ];
