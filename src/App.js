@@ -3,6 +3,7 @@ import Preloader from "./components/Preloader";
 import Navbar from "./components/Navbar";
 import Home from "./components/Home/Home";
 import About from "./components/About/About";
+import contactForm from "./components/Contact/contactForm";
 import Projects from "./components/Projects/Projects";
 import Footer from "./components/Footer";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
@@ -34,7 +35,8 @@ function App() {
           <Switch>
             <Route path="/" exact component={Home} />
             <Route path="/project" component={Projects} />
-            <Route path="/about" component={About} />            
+            <Route path="/about" component={About} />  
+            <Route path="/contact" component={contactForm} />            
           </Switch>
           <About />
           <Projects />
