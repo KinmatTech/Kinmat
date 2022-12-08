@@ -34,7 +34,7 @@ function SocialMedia() {
       </li>
       <li className="social-icons">
         <a
-          href="https://www.linkedin.com/in/mathew-ani-52240a22a/53998345"
+          href="https://www.linkedin.com/in/mathew-ani-52240a22a"
           target="_blank"
           rel="Kinmat"
           className="icon-colour  home-social-icons"
