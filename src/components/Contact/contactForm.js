@@ -22,7 +22,7 @@ export default function ContactUs () {
     <div className='contact'>
       <h2>Contact:</h2>
       <strong>Addresss:</strong>&nbsp;&nbsp;ICT Innovation Center, University of Nigeria, Nsukka.<br/>
-      <strong>Phone:</strong>&nbsp;&nbsp;+2348023456718.<br/>
+      <strong>Phone:</strong>&nbsp;&nbsp;+2348060850958.<br/>
       <strong>Email:</strong>&nbsp;&nbsp;mathewok20@gmail.com, mathew.ani@unn.edu.ng
       
       <div className="container">
