@@ -48,11 +48,11 @@ export const PROJECTS = [
   },
 
   {
-    image: TINDER,
+        image: TINDER,
     name: "Tinder Clone App",
     technologyUsed: "ReactJs, Javascript, CSS, Firebase",
     description: "This project displays Tinder Clone using react Material-UI.",
-    url: "#https://tinder-clone.vercel.app",
+    url: "https://kinmat-tinder-clone.vercel.app",
   }
   
   
